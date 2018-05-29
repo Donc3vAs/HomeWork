@@ -1,0 +1,7 @@
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\bin\Debug\hw5.exe.config
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\bin\Debug\hw5.exe
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\bin\Debug\hw5.pdb
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\obj\Debug\hw5.csprojAssemblyReference.cache
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\obj\Debug\hw5.csproj.CoreCompileInputs.cache
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\obj\Debug\hw5.exe
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw5\obj\Debug\hw5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\obj\Debug\hw1.csprojAssemblyReference.cache
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\bin\Debug\hw1.exe.config
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\bin\Debug\hw1.exe
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\bin\Debug\hw1.pdb
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\obj\Debug\hw1.exe
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw1\obj\Debug\hw1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\bin\Debug\hw2.exe.config
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\bin\Debug\hw2.exe
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\bin\Debug\hw2.pdb
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\obj\Debug\hw2.csprojAssemblyReference.cache
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\obj\Debug\hw2.csproj.CoreCompileInputs.cache
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\obj\Debug\hw2.exe
+C:\Users\Donc3vAs\source\repos\HomeWorks\hw2\obj\Debug\hw2.pdb
